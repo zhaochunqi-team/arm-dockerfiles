@@ -3,7 +3,7 @@ dockerfiles
 
 A collection of delicious docker recipes.
 
-[![](https://travis-ci.org/vimagick/dockerfiles.svg)](https://travis-ci.org/vimagick/dockerfiles)
+Just fork this repo for personal use.
 
 - :octocat: <https://github.com/vimagick/dockerfiles>
 - :beetle: <https://github.com/vimagick/dockerfiles/issues>
